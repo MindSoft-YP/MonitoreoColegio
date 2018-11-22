@@ -1,0 +1,1 @@
+$ export GOOGLE_APPLICATION_CREDENTIALS = <C:\xampp\htdocs\MonitoreoColegio\proceso\MonitoreoEscuelas-c2bc31f1d77d.json>
